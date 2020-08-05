@@ -12,7 +12,7 @@ else
 	touch updacteum
 	echo '#!/bin/bash
 
-echo "Updacteum"
+echo "updacteum"
 
 echo "Shutdown after updates?" \[Y\|N\]
 
