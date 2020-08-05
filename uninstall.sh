@@ -4,3 +4,4 @@ echo "Unninstalling updacteum";
 
 sudo rm /usr/bin/updacteum;
 
+echo "Done!";
