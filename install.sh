@@ -44,8 +44,10 @@ case "$VAR2" in
 	esac'>updacteum;
 
 sudo chmod +x updacteum;
+
 fi
 
 sudo mv updacteum /usr/bin/;
+sudo chmod +x uninstall.sh;
 
 echo "Done! Now you can run the application with: updacteum";
