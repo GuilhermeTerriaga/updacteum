@@ -23,16 +23,12 @@ case "$VAR2" in
 
 		sudo apt upgrade -y
 
-		sudo snap refresh
-
 		;;
 	y|Y)
 
 		sudo apt update
 
 		sudo apt upgrade -y
-
-		sudo snap refresh
 
 		shutdown -h +1
 		
